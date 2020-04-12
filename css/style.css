@@ -1,0 +1,23 @@
+html {
+  background-color: #D8BFD8
+}
+body {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+button {
+    background-image: url(https://img2.gratispng.com/20180920/sws/kisspng-heart-computer-icons-like-button-clip-art-instagra-instagram-love-like-red-heart-5ba43e18244bb6.8865388315374904561487.jpg);
+    background-color: white;
+    color: #A0522D;
+    background-size: 50px;
+    background-position: 20px 25%;
+    background-repeat: no-repeat;
+    width: 200px;
+    height: 59px;
+    font-size: 20px;
+    border: 1px solid #a8b4c9;
+    text-align: center;
+    text-indent: 32px;
+}
